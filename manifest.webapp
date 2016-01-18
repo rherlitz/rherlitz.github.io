@@ -1,0 +1,14 @@
+{
+  "name": "Goo Create",
+  "description": "Artist-friendly HTML5 tool for interactive 3D",
+  "version": "2.0",
+  "launch_path": "/",
+  "icons": {
+    "128": "/img/create_128.png"
+  },
+  "developer": {
+    "name": "Goo Technologies",
+    "url": "http://goocreate.com"
+  },
+  "default_locale": "en"
+}
