@@ -2,7 +2,7 @@
   "name": "Goo Create",
   "description": "Artist-friendly HTML5 tool for interactive 3D",
   "version": "2.0",
-  "launch_path": "https://app.goocreate.com",
+  "launch_path": "/",
   "icons": {
     "128": "/img/create_128.png"
   },
